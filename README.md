@@ -19,7 +19,7 @@ El proyecto utiliza una arquitectura **RAG (Retrieval-Augmented Generation)** pa
 
 * `chatbot_dialogos.ipynb`: Notebook principal con el pipeline ETL, vectorización y chat.
 * `requirements.txt`: Librerías necesarias para ejecutar el proyecto.
-* `images/`: Carpeta con evidencias gráficas del funcionamiento.
+* `images/`: Evidencias gráficas del funcionamiento.
 
 ## Instalación y Uso
 
