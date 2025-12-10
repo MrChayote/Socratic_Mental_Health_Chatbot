@@ -68,7 +68,7 @@ Este proyecto fue desarrollado con fines académicos.
 **Dataset Utilizado:**
 El corpus de conocimiento terapéutico no es propiedad de este repositorio. Fue obtenido de fuentes públicas:
 * **Nombre:** Mental Health Counseling Conversations
-* **Fuente Original:**  [Amod/mental_health_counseling_conversations](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations/viewer/default/train?row=0&views%5B%5D=train)
+* **Fuente Original:**  [Amod/mental_health_counseling_conversations](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations)
 * **Atribución:** Agradecimientos a los creadores del dataset original por hacer disponible esta información para la investigación.
 
 ## 👤 Autor
