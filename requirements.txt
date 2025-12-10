@@ -1,0 +1,7 @@
+chromadb
+ollama
+pandas
+matplotlib
+seaborn
+deep_translator
+scikit-learn
