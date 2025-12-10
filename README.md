@@ -25,7 +25,7 @@ El proyecto utiliza una arquitectura **RAG (Retrieval-Augmented Generation)** pa
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/MrChayote/Socratic_Mental_Health_Chatbot.git](https://github.com/MrChayote/Socratic_Mental_Health_Chatbot.git)
+    git clone https://github.com/MrChayote/Socratic_Mental_Health_Chatbot.git
     cd Socratic_Mental_Health_Chatbot
     ```
 
